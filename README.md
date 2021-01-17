@@ -3,7 +3,7 @@ Coursera IBM Data Science Capstone
 <br>
 Primary notebook - Capstone.ipynb 
 <br>
-Recursive Algorithm to sort through Foursquare Categories Hierarchy - getCategoriesHierarchy.ipynb
+Recursive Algorithm to sort through Foursquare Categories Hierarchy - getCategoryHierarchy.ipynb
 <br>
 Map of Charlotte Crimes - index.html
 <br>
