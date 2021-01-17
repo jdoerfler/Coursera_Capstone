@@ -7,4 +7,4 @@ Recursive Algorithm to sort through Foursquare Categories Hierarchy - getCategor
 <br>
 Map of Charlotte Crimes - index.html
 <br>
-Report - report.docx
+Report - report.pdf
